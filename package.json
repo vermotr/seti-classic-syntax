@@ -1,9 +1,9 @@
 {
-  "name": "seti-syntax",
+  "name": "seti-classic-syntax",
   "theme": "syntax",
   "version": "0.4.2",
-  "description": "Seti Syntax - A subtle dark colored theme for Atom.",
-  "repository": "https://github.com/jesseweed/seti-syntax",
+  "description": "Seti Classic Syntax - A subtle dark colored theme for Atom.",
+  "repository": "https://github.com/vermotr/seti-classic-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">1.0"

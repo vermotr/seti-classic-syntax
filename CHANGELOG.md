@@ -1,3 +1,6 @@
+## 0.5.0
+* Fork to create seti-classic-syntax
+
 ## 0.4.2
 * Add Javascript less file
 * Improve Python syntax highlighting
